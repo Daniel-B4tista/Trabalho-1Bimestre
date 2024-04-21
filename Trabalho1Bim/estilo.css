@@ -1,0 +1,154 @@
+.barra {
+    background-color: #212130;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+}
+
+.fonte {
+    color: white;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 30px;
+    font-style: oblique;
+    position: absolute;
+    position: fixed;
+    left: 370px;
+    top: 20px;
+}
+
+.direita {
+    text-align: right;
+    position: absolute;
+    position: fixed;
+    right: 40px;
+    top: 0px;
+}
+
+.esquerda {
+    text-align: left;
+    position: absolute;
+    position: fixed;
+    top: 7px;
+    left: 25px;
+}
+
+.title {
+    text-align: center;
+    color: #212130;
+    font-family: formula1;
+}
+
+.pistas {
+    margin: auto;
+    display: block;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    background-color: #212130;
+    color: white;
+}
+
+
+
+.azulforte {
+    background-color: #212130;
+    color: white;
+}
+
+.alinhamentotable {
+    margin: auto;
+    width: 750px;
+    height: 100px;
+    text-align: center;
+    position: fixed;
+    position: static;
+    
+}
+
+.fundocinza {
+    background-color: #373744;
+    color: white;
+}
+
+.equipe {
+    width: 260px;
+    height: 450px;
+    float: right;
+}
+
+.divprincipal {
+    margin: auto;
+    position: static;
+    left: 500px;
+    width: 800px;
+    padding: 30px;
+}
+
+.tableclassificação{
+    position: fixed;
+    position: static;
+    text-align: center;
+    
+}
+
+.divgeral{
+    width: 1732px;
+    margin: auto;
+}
+
+.blank{
+    background-color: white;
+    color: white;
+    line-height: 50px;
+}
+
+@font-face {
+    font-family: 'formula1' ;
+    src: url(Formula1-Regular.otf);
+}
+
+html{
+    font-family: formula1;
+}
+
+.center{
+    text-align: center;
+}
+
+.espaço{
+    white-space: nowrap;
+}
+
+.cinza{
+    background-color: #373744;
+}
+
+.divequipes{
+    width: 600px;
+    margin: auto;
+}
+
+th{
+    background-color: #212130;
+    color: white;
+}
+
+.divpilotos{
+    margin: auto;
+    width: 600px;
+    height: 550px;
+}
+
+.pontuacao{
+    margin: auto;
+    width: 500px;
+    height: 400px;
+}
+
